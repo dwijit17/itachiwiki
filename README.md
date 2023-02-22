@@ -1,1 +1,1 @@
-# itachiwiki
+# itachiwiki/day2.html
